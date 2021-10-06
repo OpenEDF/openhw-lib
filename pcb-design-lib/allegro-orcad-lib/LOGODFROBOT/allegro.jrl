@@ -1,0 +1,238 @@
+\t (00:36:39) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:36:39)     Journal start - Sat Dec 08 17:19:12 2018
+\t (00:36:39)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:36:39) 
+\d (00:36:39) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/LOGODFROBOT/DFROBOT.dra
+\i (00:36:39) generaledit 
+\i (00:36:40) zoom in 1 
+\i (00:36:40) setwindow pcb
+\i (00:36:40) zoom in 9.001 0.405
+\i (00:36:40) trapsize 160
+\i (00:36:41) zoom in 1 
+\i (00:36:41) setwindow pcb
+\i (00:36:41) zoom in 7.594 2.357
+\t (00:36:41) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:36:41) trapsize 80
+\i (00:36:43) pick grid 0.845 5.187
+\t (00:36:43) last pick:  0.845  5.187
+\i (00:36:45) pick grid 0.845 5.187
+\t (00:36:45) last pick:  0.845  5.187
+\i (00:36:45) pick grid 0.829 5.203
+\t (00:36:45) last pick:  0.829  5.203
+\i (00:36:49) pick grid 0.606 5.347
+\t (00:36:49) last pick:  0.606  5.347
+\i (00:36:49) pick grid dbl 0.606 5.347
+\t (00:36:49) last pick:  0.606  5.347
+\i (00:36:50) pick grid 0.861 5.315
+\t (00:36:50) last pick:  0.861  5.315
+\i (00:36:50) pick grid dbl 0.861 5.315
+\t (00:36:50) last pick:  0.861  5.315
+\e (00:36:52) Command not found: dd
+\i (00:36:54) delete 
+\i (00:36:54) generaledit 
+\i (00:36:56) zoom out 1 
+\i (00:36:56) setwindow pcb
+\i (00:36:56) zoom out 2.700 5.027
+\t (00:36:56) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:36:56) trapsize 160
+\i (00:36:59) label refdes 
+\t (00:36:59) Pick text location.
+\i (00:37:01) pick grid 7.403 4.580
+\t (00:37:01) last pick:  7.403  4.580
+\t (00:37:01) Enter text string.
+\i (00:37:07) setwindow pcb
+\i (00:37:07) pick 7.403 4.580
+\i (00:37:21) define grid 
+\t (00:37:21) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:37:24) setwindow form.grid
+\i (00:37:24) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:37:25) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:37:27) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:37:30) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:37:30) FORM grid done  
+\t (00:37:30) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:37:32) setwindow pcb
+\i (00:37:32) zoom in 1 
+\i (00:37:32) setwindow pcb
+\i (00:37:32) zoom in 2.221 2.373
+\i (00:37:32) trapsize 80
+\i (00:37:32) zoom in 1 
+\i (00:37:32) setwindow pcb
+\i (00:37:32) zoom in 2.270 2.501
+\i (00:37:32) trapsize 40
+\i (00:37:33) zoom out 1 
+\i (00:37:33) setwindow pcb
+\i (00:37:33) zoom out 2.270 2.573
+\i (00:37:33) trapsize 80
+\i (00:37:36) color192 
+\i (00:37:36) setwindow cvf.dialog
+\i (00:37:36) cvf layer_mode
+\i (00:37:37) cvf layer_tree_item 'Package Geometry'
+\i (00:37:42) cvf select_color_cell 7
+\i (00:37:44) cvf select_color_cell 9
+\i (00:37:45) cvf layers_color package_geometry/place_bound_top 10
+\i (00:37:46) cvf apply
+\i (00:37:47) cvf okay
+\i (00:37:49) setwindow pcb
+\i (00:37:49) zoom in 1 
+\i (00:37:49) setwindow pcb
+\i (00:37:49) zoom in -0.096 4.828
+\i (00:37:49) trapsize 40
+\i (00:37:52) pick grid -0.312 5.012
+\t (00:37:52) last pick:  -0.300  5.000
+\t (00:37:52) Refdes of this subclass is already defined, change subclass.
+\i (00:37:56) add rect 
+\i (00:38:00) setwindow form.mini
+\i (00:38:00) FORM mini class PACKAGE KEEPOUT 
+\i (00:38:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:38:06) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:38:12) setwindow pcb
+\i (00:38:12) pick grid -0.104 4.908
+\t (00:38:12) last pick:  -0.100  4.900
+\i (00:38:13) zoom out 1 
+\i (00:38:13) setwindow pcb
+\i (00:38:13) zoom out 1.271 2.550
+\i (00:38:13) trapsize 80
+\i (00:38:13) zoom out 1 
+\i (00:38:13) setwindow pcb
+\i (00:38:13) zoom out 1.271 2.549
+\i (00:38:13) trapsize 160
+\i (00:38:14) zoom in 1 
+\i (00:38:14) setwindow pcb
+\i (00:38:14) zoom in 20.846 -2.216
+\i (00:38:14) trapsize 80
+\i (00:38:17) zoom out 1 
+\i (00:38:17) setwindow pcb
+\i (00:38:17) zoom out 21.758 -1.352
+\i (00:38:17) trapsize 160
+\i (00:38:17) zoom in 1 
+\i (00:38:18) setwindow pcb
+\i (00:38:18) zoom in 21.886 -1.032
+\i (00:38:18) trapsize 80
+\i (00:38:22) pick grid 21.694 0.215
+\t (00:38:22) last pick:  21.700  0.200
+\i (00:38:23) zoom out 1 
+\i (00:38:23) setwindow pcb
+\i (00:38:23) zoom out 21.854 0.199
+\i (00:38:23) trapsize 160
+\i (00:38:23) prepopup 16.737 -2.423
+\i (00:38:24) done 
+\i (00:38:24) generaledit 
+\i (00:38:26) move 
+\t (00:38:26) Select element(s) to move.
+\i (00:38:28) pick grid 8.389 5.189
+\t (00:38:28) last pick:  8.400  5.200
+\t (00:38:28) last pick:  7.403  4.580
+\t (00:38:28) Pick new location for the element(s).
+\i (00:38:29) pick grid 6.438 3.686
+\t (00:38:29) last pick:  6.400  3.700
+\i (00:38:31) save 
+\i (00:38:32) fillin yes 
+\t (00:38:33) Symbol 'dfrobot.psm' created.
+\i (00:38:33) generaledit 
+\i (00:38:49) pick grid 17.888 -1.272
+\t (00:38:49) last pick:  17.900  -1.300
+\i (00:38:49) zoom in 1 
+\i (00:38:49) setwindow pcb
+\i (00:38:49) zoom in 19.711 -0.696
+\i (00:38:49) trapsize 80
+\i (00:38:50) pick grid 21.102 0.152
+\t (00:38:50) last pick:  21.100  0.200
+\i (00:38:51) drag_start grid 21.598 0.216
+\i (00:38:51) move 
+\t (00:38:51) last pick:  21.600  0.200
+\t (00:38:51) Element has no origin, using pick.
+\t (00:38:51) Pick new location for the element(s).
+\i (00:38:52) drag_stop grid 21.662 -0.024
+\i (00:38:53) generaledit 
+\i (00:38:53) zoom out 1 
+\i (00:38:53) setwindow pcb
+\i (00:38:53) zoom out 21.790 0.024
+\i (00:38:53) trapsize 160
+\i (00:38:58) delete 
+\i (00:38:58) generaledit 
+\i (00:39:01) add rect 
+\i (00:39:02) zoom in 1 
+\i (00:39:02) setwindow pcb
+\i (00:39:02) zoom in 0.010 3.350
+\i (00:39:02) trapsize 80
+\i (00:39:03) zoom in 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom in 0.026 3.686
+\i (00:39:03) trapsize 40
+\i (00:39:10) pick grid -0.118 4.933
+\t (00:39:10) last pick:  -0.100  4.900
+\i (00:39:10) zoom out 1 
+\i (00:39:10) setwindow pcb
+\i (00:39:10) zoom out 0.506 3.862
+\i (00:39:10) trapsize 80
+\i (00:39:11) zoom out 1 
+\i (00:39:11) setwindow pcb
+\i (00:39:11) zoom out 0.585 3.862
+\i (00:39:11) trapsize 160
+\i (00:39:11) zoom in 1 
+\i (00:39:11) setwindow pcb
+\i (00:39:11) zoom in 12.548 -0.680
+\i (00:39:11) trapsize 80
+\i (00:39:12) zoom in 1 
+\i (00:39:12) setwindow pcb
+\i (00:39:12) zoom in 12.580 -0.680
+\i (00:39:12) trapsize 40
+\i (00:39:12) zoom out 1 
+\i (00:39:12) setwindow pcb
+\i (00:39:12) zoom out 12.580 -0.672
+\i (00:39:12) trapsize 80
+\i (00:39:16) zoom out 1 
+\i (00:39:16) setwindow pcb
+\i (00:39:16) zoom out 19.456 -0.159
+\i (00:39:16) trapsize 160
+\i (00:39:17) zoom out 1 
+\i (00:39:17) setwindow pcb
+\i (00:39:17) zoom out 20.353 -0.255
+\i (00:39:17) trapsize 320
+\i (00:39:18) zoom out 1 
+\i (00:39:18) setwindow pcb
+\i (00:39:18) zoom out 16.707 -0.448
+\t (00:39:18) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:39:18) trapsize 640
+\i (00:39:19) zoom in 1 
+\i (00:39:19) setwindow pcb
+\i (00:39:19) zoom in 22.688 -1.343
+\t (00:39:19) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:39:19) trapsize 320
+\i (00:39:20) zoom in 1 
+\i (00:39:20) setwindow pcb
+\i (00:39:20) zoom in 22.432 -0.575
+\i (00:39:20) trapsize 160
+\i (00:39:20) zoom in 1 
+\i (00:39:20) setwindow pcb
+\i (00:39:20) zoom in 22.432 -0.574
+\i (00:39:20) trapsize 80
+\i (00:39:21) zoom out 1 
+\i (00:39:21) setwindow pcb
+\i (00:39:21) zoom out 22.432 -0.350
+\i (00:39:21) trapsize 160
+\i (00:39:22) zoom in 1 
+\i (00:39:22) setwindow pcb
+\i (00:39:22) zoom in 22.560 -0.223
+\i (00:39:22) trapsize 80
+\i (00:39:23) zoom out 1 
+\i (00:39:23) setwindow pcb
+\i (00:39:23) zoom out 22.608 -0.207
+\i (00:39:23) trapsize 160
+\i (00:39:31) pick grid 21.745 -0.110
+\t (00:39:31) last pick:  21.700  -0.100
+\i (00:39:33) prepopup 17.491 -1.453
+\i (00:39:33) done 
+\i (00:39:33) generaledit 
+\i (00:39:34) save 
+\i (00:39:35) fillin yes 
+\t (00:39:36) Symbol 'dfrobot.psm' created.
+\i (00:39:36) generaledit 
+\i (00:39:39) open 
+\i (00:39:43) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LOGOHARDWARD\HARDWARE.dra"
+\i (00:39:43) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LOGOHARDWARD"
+\t (00:39:43) Opening existing design...
+\t (00:39:44) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:39:44) trapsize 160
+\t (00:39:44)     Journal end - Sat Dec 08 17:22:17 2018

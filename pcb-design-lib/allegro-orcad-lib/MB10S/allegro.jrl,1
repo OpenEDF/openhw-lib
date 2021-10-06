@@ -1,0 +1,20 @@
+\t (01:19:58) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:19:58)     Journal start - Sat Dec 08 18:02:31 2018
+\t (01:19:58)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (01:19:58) 
+\d (01:19:58) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/MB10S/MB10S.dra
+\i (01:19:58) generaledit 
+\i (01:20:01) save 
+\i (01:20:02) fillin yes 
+\t (01:20:03) Symbol 'mb10s.psm' created.
+\i (01:20:03) zoom out 1 
+\i (01:20:03) setwindow pcb
+\i (01:20:03) zoom out 3.336 -1.239
+\i (01:20:03) trapsize 81
+\i (01:20:03) generaledit 
+\i (01:20:03) pick grid 2.431 -0.368
+\t (01:20:03) last pick:  2.400  -0.400
+\i (01:20:06) pick grid 4.434 1.877
+\t (01:20:06) last pick:  4.400  1.900
+\i (01:20:08) exit 
+\t (01:20:09)     Journal end - Sat Dec 08 18:02:42 2018

@@ -1,0 +1,79 @@
+\t (06:13:26) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (06:13:26)     Journal start - Mon Mar 04 14:51:12 2019
+\t (06:13:26)         Host=MS-20170525XJDN User=Administrator Pid=4364 CPUs=4
+\t (06:13:26) 
+\d (06:13:26) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/LQFP48/LQFP.dra
+\i (06:13:31) zoom in 1 
+\i (06:13:31) setwindow pcb
+\i (06:13:31) zoom in -1.847 4.072
+\i (06:13:31) trapsize 145
+\i (06:13:31) zoom in 1 
+\i (06:13:31) setwindow pcb
+\i (06:13:31) zoom in -6.600 4.072
+\i (06:13:31) trapsize 73
+\i (06:13:32) zoom out 1 
+\i (06:13:32) setwindow pcb
+\i (06:13:32) zoom out -6.411 4.087
+\i (06:13:32) trapsize 145
+\i (06:13:33) roam y 96 
+\i (06:13:33) roam y 96
+\i (06:13:34) zoom in 1 
+\i (06:13:34) setwindow pcb
+\i (06:13:34) zoom in 4.700 -0.105
+\i (06:13:34) trapsize 73
+\i (06:13:35) zoom in 1 
+\i (06:13:35) setwindow pcb
+\i (06:13:35) zoom in 4.714 -0.090
+\i (06:13:35) trapsize 36
+\i (06:13:37) zoom out 1 
+\i (06:13:37) setwindow pcb
+\i (06:13:37) zoom out 4.722 -0.075
+\i (06:13:37) trapsize 73
+\i (06:13:39) roam x -96 
+\i (06:13:39) roam x -96
+\i (06:13:41) zoom out 1 
+\i (06:13:41) setwindow pcb
+\i (06:13:41) zoom out -1.340 0.244
+\i (06:13:41) trapsize 145
+\i (06:13:42) zoom in 1 
+\i (06:13:42) setwindow pcb
+\i (06:13:42) zoom in 0.480 -0.047
+\i (06:13:42) trapsize 73
+\i (06:13:43) zoom out 1 
+\i (06:13:43) setwindow pcb
+\i (06:13:43) zoom out 0.495 -0.032
+\i (06:13:43) trapsize 145
+\i (06:13:46) setwindow form.mini
+\i (06:13:46) FORM mini subcolor 0 
+\i (06:13:46) FORM mini subcolor 1 
+\i (06:14:06) FORM mini class PACKAGE GEOMETRY 
+\i (06:14:09) FORM mini subclass PIN_NUMBER 
+\i (06:14:11) FORM mini subcolor 0 
+\i (06:14:12) FORM mini subcolor 1 
+\i (06:14:14) FORM mini subclass SILKSCREEN_TOP 
+\i (06:14:15) FORM mini subcolor 0 
+\i (06:14:16) FORM mini subcolor 1 
+\i (06:14:19) FORM mini subclass PLACE_BOUND_TOP 
+\i (06:14:20) FORM mini subcolor 0 
+\i (06:14:22) FORM mini subcolor 1 
+\i (06:14:46) FORM mini subclass ASSEMBLY_TOP 
+\i (06:14:49) FORM mini subcolor 0 
+\i (06:14:49) FORM mini subcolor 1 
+\i (06:14:52) FORM mini class PACKAGE KEEPOUT 
+\i (06:14:53) FORM mini subcolor 0 
+\i (06:14:54) FORM mini subcolor 1 
+\i (06:15:00) FORM mini subclass BOTTOM 
+\i (06:15:01) FORM mini subcolor 0 
+\i (06:15:01) FORM mini subcolor 1 
+\i (06:15:24) FORM mini subclass TOP 
+\i (06:15:27) FORM mini class ROUTE KEEPOUT 
+\i (06:15:33) FORM mini class PACKAGE GEOMETRY 
+\i (06:15:36) FORM mini subcolor 0 
+\i (06:15:37) FORM mini subcolor 1 
+\i (06:16:15) setwindow pcb
+\i (06:16:15) open 
+\i (06:16:24) fillin "E:\PCBFile\PCB_Design_Lib\Allegro Demo\0402\R0402.dra"
+\i (06:16:24) cd "E:\PCBFile\PCB_Design_Lib\Allegro Demo\0402"
+\t (06:16:24) Opening existing design...
+\i (06:16:24) trapsize 2
+\t (06:16:24)     Journal end - Mon Mar 04 14:54:10 2019

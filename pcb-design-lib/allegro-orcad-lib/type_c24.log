@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TYPE_C24.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Feb 23 12:45:53 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/TYPE_C24
+    Name      = type_c24.psm
+    User      = Administrator
+    Machine   = MS-20170525XJDN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

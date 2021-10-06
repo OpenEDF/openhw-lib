@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMD3225.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Dec 08 17:34:42 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/SMD3225_4P
+    Name      = smd3225.psm
+    User      = Administrator
+    Machine   = MS-20170525XJDN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

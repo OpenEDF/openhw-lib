@@ -1,0 +1,21 @@
+\t (00:00:36) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:36)     Journal start - Sat Mar 16 19:10:23 2019
+\t (00:00:36)         Host=MS-20170525XJDN User=Administrator Pid=3316 CPUs=4
+\t (00:00:36) 
+   (00:00:40) Loading axlcore.cxt 
+\t (00:00:42) Starting new design...
+   (00:00:45) Loading cmds.cxt 
+\i (00:00:45) trapsize 995
+\i (00:00:45) trapsize 968
+\i (00:00:45) trapsize 1000
+\i (00:00:45) trapsize 1014
+\i (00:00:46) trapsize 1215
+\i (00:00:46) trapsize 1693
+\i (00:00:46) ifp 
+\i (00:00:50) open 
+\i (00:01:08) fillin "F:\2018年活动\PCB\DALIMaster\DALIMaster.brd"
+\i (00:01:08) cd "F:\2018年活动\PCB\DALIMaster"
+\t (00:01:08) Opening existing design...
+\t (00:01:08) Grids are drawn 4.096, 4.096 apart for enhanced viewability.
+\i (00:01:08) trapsize 2898
+\t (00:01:08)     Journal end - Sat Mar 16 19:10:56 2019

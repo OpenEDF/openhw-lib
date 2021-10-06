@@ -1,0 +1,92 @@
+\t (01:51:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:51:04)     Journal start - Sat Feb 23 12:44:48 2019
+\t (01:51:04)         Host=MS-20170525XJDN User=Administrator Pid=5276 CPUs=4
+\t (01:51:04) 
+\d (01:51:04) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/TYPE_C24/TYPE_C24.dra
+\i (01:51:05) roam y 96 
+\i (01:51:05) roam y 96
+\i (01:51:06) roam y 96 
+\i (01:51:06) roam y 96
+\i (01:51:14) zoom in 1 
+\i (01:51:14) setwindow pcb
+\i (01:51:14) zoom in 2.1320 0.2011
+\i (01:51:14) trapsize 680
+\i (01:51:15) zoom in 1 
+\i (01:51:15) setwindow pcb
+\i (01:51:15) zoom in 1.3292 -0.7378
+\i (01:51:15) trapsize 340
+\i (01:51:17) zoom out 1 
+\i (01:51:17) setwindow pcb
+\i (01:51:17) zoom out 1.3019 -0.4520
+\i (01:51:17) trapsize 680
+\i (01:51:18) zoom in 1 
+\i (01:51:18) setwindow pcb
+\i (01:51:18) zoom in 3.3022 -0.7513
+\i (01:51:18) trapsize 340
+\i (01:51:19) zoom in 1 
+\i (01:51:19) setwindow pcb
+\i (01:51:19) zoom in 2.8940 -0.6764
+\i (01:51:19) trapsize 170
+\i (01:51:20) zoom out 1 
+\i (01:51:20) setwindow pcb
+\i (01:51:20) zoom out 2.8940 -0.6764
+\i (01:51:20) trapsize 340
+\i (01:51:20) zoom out 1 
+\i (01:51:20) setwindow pcb
+\i (01:51:20) zoom out 2.8940 -0.6763
+\i (01:51:20) trapsize 680
+\i (01:51:28) zoom in 1 
+\i (01:51:28) setwindow pcb
+\i (01:51:28) zoom in 5.8060 -2.0098
+\i (01:51:28) trapsize 340
+\i (01:51:34) text edit 
+\i (01:51:35) pick grid 5.2821 -2.1458
+\t (01:51:35) last pick:  5.3000  -2.1000
+\i (01:51:40) setwindow pcb
+\i (01:51:40) prepopup 5.7924 -2.6017
+\i (01:51:41) done 
+\i (01:51:41) setwindow pcb
+\i (01:51:41) pick 5.2821 -2.1458
+\t (01:51:41) Pick text to edit.
+\i (01:51:44) setwindow pcb
+\i (01:51:44) move 
+\t (01:51:44) Select element(s) to move.
+\i (01:51:46) pick grid 4.9964 -2.1390
+\t (01:51:46) last pick:  5.0000  -2.1000
+\t (01:51:46) last pick:  5.4000  -2.1000
+\t (01:51:46) Pick new location for the element(s).
+\i (01:51:49) pick grid 5.5678 -2.0982
+\t (01:51:49) last pick:  5.6000  -2.1000
+\i (01:51:51) zoom in 1 
+\i (01:51:51) setwindow pcb
+\i (01:51:51) zoom in 4.9215 -2.1526
+\i (01:51:51) trapsize 170
+\i (01:51:51) zoom in 1 
+\i (01:51:51) setwindow pcb
+\i (01:51:51) zoom in 4.9216 -2.1526
+\i (01:51:51) trapsize 85
+\i (01:51:52) zoom out 1 
+\i (01:51:52) setwindow pcb
+\i (01:51:52) zoom out 4.9250 -2.1508
+\i (01:51:52) trapsize 170
+\i (01:51:54) zoom out 1 
+\i (01:51:54) setwindow pcb
+\i (01:51:54) zoom out 4.9216 -2.1441
+\i (01:51:54) trapsize 340
+\i (01:51:54) prepopup 5.0440 -2.3073
+\i (01:51:55) done 
+\i (01:52:02) save 
+\i (01:52:08) fillin yes 
+\t (01:52:09) Symbol 'type_c24.psm' created.
+\i (01:52:15) open 
+\i (01:52:37) fillin "F:\2018年活动\PCB\DALIMaster\DALIMaster.brd"
+\i (01:52:37) cd "F:\2018年活动\PCB\DALIMaster"
+\t (01:52:37) Opening existing design...
+\t (01:52:37) Grids are drawn 63.04, 63.04 apart for enhanced viewability.
+\i (01:52:37) trapsize 2475
+\i (01:52:37) trapsize 2370
+\i (01:52:37) trapsize 2475
+\i (01:52:38) trapsize 2517
+\i (01:52:38) trapsize 2392
+\i (01:52:38) trapsize 2451
+\t (01:52:38)     Journal end - Sat Feb 23 12:46:22 2019

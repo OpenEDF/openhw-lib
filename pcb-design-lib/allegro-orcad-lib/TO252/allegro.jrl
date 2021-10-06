@@ -1,0 +1,49 @@
+\t (01:19:06) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:19:06)     Journal start - Sat Dec 08 18:01:39 2018
+\t (01:19:06)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (01:19:06) 
+\d (01:19:06) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/TO252/TO252.dra
+\i (01:19:07) generaledit 
+\i (01:19:09) delete 
+\i (01:19:12) setwindow form.find
+\i (01:19:12) FORM find shapes NO 
+\i (01:19:13) FORM find lines NO 
+\i (01:19:15) setwindow pcb
+\i (01:19:15) pick grid 2.715 2.417
+\t (01:19:15) last pick:  2.700  2.400
+\t (01:19:15) Text "Ref"
+\i (01:19:16) pick grid 2.715 2.417
+\t (01:19:16) last pick:  2.700  2.400
+\i (01:19:18) label refdes 
+\t (01:19:19) Pick text location.
+\i (01:19:21) setwindow form.mini
+\i (01:19:21) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (01:19:23) FORM mini subclass SILKSCREEN_TOP 
+\i (01:19:24) setwindow pcb
+\i (01:19:24) pick grid 1.576 2.304
+\t (01:19:24) last pick:  1.600  2.300
+\t (01:19:24) Enter text string.
+\i (01:19:26) setwindow pcb
+\i (01:19:26) pick 1.600 2.300
+\i (01:19:27) prepopup 6.333 2.175
+\i (01:19:28) done 
+\i (01:19:28) generaledit 
+\i (01:19:28) save 
+\i (01:19:30) fillin yes 
+\t (01:19:30) Symbol 'to252.psm' created.
+\i (01:19:31) generaledit 
+\i (01:19:32) zoom out 1 
+\i (01:19:33) setwindow pcb
+\i (01:19:33) zoom out 2.029 2.603
+\i (01:19:33) trapsize 81
+\i (01:19:33) zoom out 1 
+\i (01:19:33) setwindow pcb
+\i (01:19:33) zoom out 2.206 2.474
+\t (01:19:33) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (01:19:33) trapsize 162
+\i (01:19:36) open 
+\i (01:19:41) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\TO236AB\TO236AB.dra"
+\i (01:19:41) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\TO236AB"
+\t (01:19:41) Opening existing design...
+\i (01:19:41) trapsize 40
+\t (01:19:41)     Journal end - Sat Dec 08 18:02:14 2018

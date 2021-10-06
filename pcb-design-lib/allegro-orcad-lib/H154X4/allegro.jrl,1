@@ -1,0 +1,19 @@
+\t (00:36:26) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:36:26)     Journal start - Sat Dec 08 17:18:59 2018
+\t (00:36:26)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:36:26) 
+\d (00:36:26) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/H154X4/H154X4.dra
+\i (00:36:26) generaledit 
+\i (00:36:29) zoom in 1 
+\i (00:36:29) setwindow pcb
+\i (00:36:29) zoom in 2.186 -1.644
+\i (00:36:29) trapsize 56
+\i (00:36:30) pick grid 3.006 -0.465
+\t (00:36:30) last pick:  3.000  -0.500
+\i (00:36:33) open 
+\i (00:36:39) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LOGODFROBOT\DFROBOT.dra"
+\i (00:36:39) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LOGODFROBOT"
+\t (00:36:39) Opening existing design...
+\t (00:36:39) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:36:39) trapsize 320
+\t (00:36:39)     Journal end - Sat Dec 08 17:19:12 2018

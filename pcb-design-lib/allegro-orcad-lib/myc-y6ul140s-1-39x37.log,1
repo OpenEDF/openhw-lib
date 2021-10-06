@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MYC-Y6UL140S-1-39X37.dra                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Mar 13 11:38:06 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/PCBFile/PCB_Design_Lib/AllegroPcbLib
+    Name      = myc-y6ul140s-1-39x37.psm
+    User      = Administrator
+    Machine   = MS-20170525XJDN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

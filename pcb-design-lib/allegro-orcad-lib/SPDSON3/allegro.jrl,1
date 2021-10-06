@@ -1,0 +1,537 @@
+\t (00:57:37) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:57:37)     Journal start - Thu Dec 06 21:43:32 2018
+\t (00:57:37)         Host=MS-20170525XJDN User=Administrator Pid=3372 CPUs=4
+\t (00:57:37) 
+\t (00:57:37) Starting new design...
+\i (00:57:37) trapsize 4301
+\i (00:57:37) trapsize 4301
+\i (00:57:39) prmed 
+\i (00:57:41) setwindow form.prmedit
+\i (00:57:41) FORM prmedit design  
+\i (00:57:43) FORM prmedit text  
+\i (00:57:43) FORM prmedit shapes  
+\i (00:57:44) FORM prmedit route  
+\i (00:57:45) FORM prmedit design  
+\i (00:57:45) FORM prmedit display  
+\i (00:57:47) FORM prmedit display_plated_holes YES 
+\i (00:57:47) FORM prmedit display_non_plated_holes YES 
+\i (00:57:49) FORM prmedit display_grid YES 
+\t (00:57:49) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:57:50) FORM prmedit done  
+\i (00:57:52) setwindow pcb
+\i (00:57:52) define grid 
+\t (00:57:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:57:57) setwindow form.grid
+\i (00:57:57) FORM grid non_etch non_etch_x_grids 0.001 
+\i (00:57:59) FORM grid non_etch non_etch_y_grids 0.001 
+\i (00:58:02) FORM grid all_etch all_etch_x_grids 0.001 
+\i (00:58:05) FORM grid all_etch all_etch_y_grids 0.001 
+\i (00:58:05) FORM grid done  
+\t (00:58:05) Grids are drawn 4.096, 4.096 apart for enhanced viewability.
+\i (00:58:07) setwindow pcb
+\i (00:58:07) prmed 
+\i (00:58:08) setwindow form.prmedit
+\i (00:58:08) FORM prmedit text  
+\i (00:58:09) FORM prmedit text_setup_button  
+\i (00:58:13) setwindow form.textblock
+\i (00:58:13) FORM textblock 1 width 0.200 
+\i (00:58:17) FORM textblock 1 height 0.500 
+\i (00:58:21) FORM textblock 1 line_spacing 0.200 
+\i (00:58:25) FORM textblock 1 character_spacing 0.100 
+\i (00:58:29) FORM textblock 1 photoplot_width 0.100 
+\i (00:58:29) FORM textblock done  
+\i (00:58:30) setwindow form.prmedit
+\i (00:58:30) FORM prmedit done  
+\i (00:58:31) setwindow pcb
+\i (00:58:31) zoom in 1 
+\i (00:58:31) setwindow pcb
+\i (00:58:31) zoom in -2.802 -13.124
+\i (00:58:31) trapsize 2150
+\i (00:58:31) zoom in 1 
+\i (00:58:31) setwindow pcb
+\i (00:58:31) zoom in -3.662 -13.124
+\t (00:58:31) Grids are drawn 1.024, 1.024 apart for enhanced viewability.
+\i (00:58:31) trapsize 1075
+\i (00:58:31) zoom in 1 
+\i (00:58:31) setwindow pcb
+\i (00:58:31) zoom in -3.662 -12.909
+\i (00:58:31) trapsize 538
+\i (00:58:32) zoom in 1 
+\i (00:58:32) setwindow pcb
+\i (00:58:32) zoom in -3.016 -1.189
+\t (00:58:32) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:58:32) trapsize 269
+\i (00:58:32) zoom in 1 
+\i (00:58:32) setwindow pcb
+\i (00:58:32) zoom in -3.016 -1.189
+\i (00:58:32) trapsize 134
+\i (00:58:32) zoom in 1 
+\i (00:58:32) setwindow pcb
+\i (00:58:32) zoom in -2.962 -1.000
+\t (00:58:32) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:58:32) trapsize 67
+\i (00:58:35) add pin 
+\i (00:58:36) setwindow form.mini
+\i (00:58:36) FORM mini pad_browse  
+\t (00:58:38) No valid name selected.
+\i (00:58:40) fillin "S0303"
+\t (00:58:40) Using 'S0303.pad'.
+\i (00:58:58) setwindow pcb
+\i (00:58:58) pick y 0 0 
+\t (00:58:58) last pick:  0.000  0.000
+\t (00:58:58) Using 'S0303.pad'.
+\i (00:59:02) zoom in 1 
+\i (00:59:02) setwindow pcb
+\i (00:59:02) zoom in -0.946 0.183
+\i (00:59:02) trapsize 34
+\i (00:59:02) zoom in 1 
+\i (00:59:02) setwindow pcb
+\i (00:59:02) zoom in -0.967 0.197
+\t (00:59:02) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (00:59:02) trapsize 17
+\i (00:59:03) zoom out 1 
+\i (00:59:03) setwindow pcb
+\i (00:59:03) zoom out -0.987 0.166
+\t (00:59:03) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:59:03) trapsize 34
+\i (00:59:03) zoom out 1 
+\i (00:59:03) setwindow pcb
+\i (00:59:03) zoom out -0.986 0.167
+\i (00:59:03) trapsize 67
+\i (00:59:04) zoom in 1 
+\i (00:59:04) setwindow pcb
+\i (00:59:04) zoom in 1.231 0.194
+\i (00:59:04) trapsize 34
+\i (00:59:11) zoom in 1 
+\i (00:59:11) setwindow pcb
+\i (00:59:11) zoom in -0.831 -0.289
+\t (00:59:11) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (00:59:11) trapsize 17
+\i (00:59:12) zoom out 1 
+\i (00:59:12) setwindow pcb
+\i (00:59:12) zoom out -0.831 -0.289
+\t (00:59:12) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:59:12) trapsize 34
+\i (00:59:19) zoom out 1 
+\i (00:59:19) setwindow pcb
+\i (00:59:19) zoom out -0.850 -0.329
+\i (00:59:19) trapsize 67
+\i (00:59:19) zoom out 1 
+\i (00:59:19) setwindow pcb
+\i (00:59:19) zoom out -0.851 -0.328
+\t (00:59:19) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:59:19) trapsize 134
+\i (00:59:21) zoom in 1 
+\i (00:59:21) setwindow pcb
+\i (00:59:21) zoom in 1.004 -0.060
+\t (00:59:21) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:59:21) trapsize 67
+\i (00:59:23) zoom in 1 
+\i (00:59:23) setwindow pcb
+\i (00:59:23) zoom in -0.285 -0.154
+\i (00:59:23) trapsize 34
+\i (00:59:32) pick y 0.7 
+\t (00:59:32) last pick:  0.700  0.000
+\t (00:59:32) Using 'S0303.pad'.
+\i (00:59:42) pick y 0.5 0.85 
+\t (00:59:42) last pick:  0.500  0.850
+\t (00:59:42) Using 'S0303.pad'.
+\i (00:59:47) prepopup 1.180 -0.731
+\i (00:59:47) done 
+\t (00:59:47) Exiting from Add Pin.
+\i (00:59:50) zoom out 1 
+\i (00:59:50) setwindow pcb
+\i (00:59:50) zoom out 0.568 0.673
+\i (00:59:50) trapsize 67
+\i (00:59:53) delete 
+\i (00:59:54) pick grid 0.542 0.754
+\t (00:59:54) last pick:  0.542  0.754
+\t (00:59:54) Pin "S0303, 3"
+\i (00:59:54) pick grid 0.542 0.754
+\t (00:59:54) last pick:  0.542  0.754
+\i (00:59:56) zoom in 1 
+\i (00:59:56) setwindow pcb
+\i (00:59:56) zoom in -0.358 0.310
+\i (00:59:56) trapsize 34
+\i (00:59:57) zoom out 1 
+\i (00:59:57) setwindow pcb
+\i (00:59:57) zoom out -0.358 0.310
+\i (00:59:57) trapsize 67
+\i (00:59:58) zoom in 1 
+\i (00:59:58) setwindow pcb
+\i (00:59:58) zoom in -0.990 0.351
+\i (00:59:58) trapsize 34
+\i (01:00:03) add pin 
+\t (01:00:03) Using 'S0303.pad'.
+\i (01:00:06) setwindow form.mini
+\i (01:00:06) FORM mini next_pin_number 3 
+\i (01:00:14) setwindow pcb
+\i (01:00:14) pick y 0.35 0.85 
+\t (01:00:14) last pick:  0.350  0.850
+\t (01:00:14) Using 'S0303.pad'.
+\i (01:00:16) prepopup 2.201 0.419
+\i (01:00:17) done 
+\t (01:00:17) Exiting from Add Pin.
+\i (01:00:18) zoom in 1 
+\i (01:00:18) setwindow pcb
+\i (01:00:18) zoom in -0.600 0.741
+\t (01:00:18) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:00:18) trapsize 17
+\i (01:00:18) zoom out 1 
+\i (01:00:18) setwindow pcb
+\i (01:00:18) zoom out -0.583 0.721
+\t (01:00:18) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:00:18) trapsize 34
+\i (01:00:21) prmed 
+\i (01:00:23) setwindow form.prmedit
+\i (01:00:23) FORM prmedit text_setup_button  
+\i (01:00:29) setwindow form.textblock
+\i (01:00:29) FORM textblock 1 photoplot_width 0.010 
+\i (01:00:29) FORM textblock done  
+\i (01:00:31) setwindow form.prmedit
+\i (01:00:31) FORM prmedit done  
+\i (01:00:35) setwindow pcb
+\i (01:00:35) prmed 
+\i (01:00:36) setwindow form.prmedit
+\i (01:00:36) FORM prmedit text_setup_button  
+\i (01:00:40) setwindow form.textblock
+\i (01:00:40) FORM textblock 1 photoplot_width 0.000 
+\i (01:00:40) FORM textblock done  
+\i (01:00:41) setwindow form.prmedit
+\i (01:00:41) FORM prmedit done  
+\i (01:00:43) setwindow pcb
+\i (01:00:43) zoom out 1 
+\i (01:00:43) setwindow pcb
+\i (01:00:43) zoom out -0.945 0.890
+\i (01:00:43) trapsize 67
+\i (01:00:44) zoom in 1 
+\i (01:00:44) setwindow pcb
+\i (01:00:44) zoom in -0.946 0.890
+\i (01:00:44) trapsize 34
+\i (01:00:44) zoom out 1 
+\i (01:00:44) setwindow pcb
+\i (01:00:44) zoom out -0.945 0.890
+\i (01:00:44) trapsize 67
+\i (01:00:45) zoom out 1 
+\i (01:00:45) setwindow pcb
+\i (01:00:45) zoom out -0.946 0.890
+\t (01:00:45) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (01:00:45) trapsize 134
+\i (01:00:47) move 
+\t (01:00:47) Select element(s) to move.
+\i (01:00:48) setwindow form.find
+\i (01:00:48) FORM find all_off  
+\i (01:00:49) FORM find text YES 
+\i (01:00:49) setwindow pcb
+\i (01:00:49) zoom in 1 
+\i (01:00:49) setwindow pcb
+\i (01:00:49) zoom in -1.725 0.702
+\t (01:00:49) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:00:49) trapsize 67
+\i (01:00:50) pick grid -0.770 0.191
+\t (01:00:50) last pick:  -0.770  0.191
+\t (01:00:50) last pick:  -0.570  0.000
+\t (01:00:50) Pick new location for the element(s).
+\i (01:00:52) pick grid 0.789 -0.763
+\t (01:00:52) last pick:  0.789  -0.763
+\i (01:00:52) zoom in 1 
+\i (01:00:52) setwindow pcb
+\i (01:00:52) zoom in -0.690 -0.225
+\i (01:00:52) trapsize 34
+\i (01:00:54) pick grid -1.442 0.145
+\t (01:00:54) last pick:  -1.442  0.145
+\t (01:00:54) last pick:  -1.270  0.000
+\t (01:00:54) Pick new location for the element(s).
+\i (01:00:55) pick grid 0.096 -0.151
+\t (01:00:55) last pick:  0.096  -0.151
+\i (01:00:56) pick grid 0.681 -0.541
+\t (01:00:56) last pick:  0.681  -0.541
+\t (01:00:56) last pick:  0.789  -0.763
+\t (01:00:56) Pick new location for the element(s).
+\i (01:00:58) pick grid 0.815 -0.144
+\t (01:00:58) last pick:  0.815  -0.144
+\i (01:00:58) zoom out 1 
+\i (01:00:59) setwindow pcb
+\i (01:00:59) zoom out 0.923 -0.144
+\i (01:00:59) trapsize 67
+\i (01:01:00) drag_start grid -0.986 1.066
+\i (01:01:00) drag_stop -0.596 0.958
+\t (01:01:00) last pick:  -0.920  0.850
+\t (01:01:00) Pick new location for the element(s).
+\i (01:01:01) pick grid 0.439 0.568
+\t (01:01:01) last pick:  0.439  0.568
+\i (01:01:02) zoom in 1 
+\i (01:01:02) setwindow pcb
+\i (01:01:02) zoom in 0.949 0.622
+\i (01:01:02) trapsize 34
+\w (01:01:24) Save Pending
+\i (01:01:28) color192 
+\i (01:01:28) setwindow cvf.dialog
+\i (01:01:28) cvf layer_mode
+\i (01:01:30) cvf layer_tree_item 'Package Geometry'
+\i (01:01:31) cvf select_color_cell 7
+\i (01:01:33) cvf layers_color package_geometry/pin_number 8
+\i (01:01:35) cvf layers_color package_geometry/silkscreen_top 8
+\i (01:01:36) cvf apply
+\i (01:01:37) cvf okay
+\i (01:01:42) setwindow pcb
+\i (01:01:42) add line 
+\i (01:01:44) setwindow form.mini
+\i (01:01:44) FORM mini lock_direction 90 
+\i (01:01:47) FORM mini line_width 0.100 
+\i (01:01:51) FORM mini class PACKAGE GEOMETRY 
+\i (01:01:54) FORM mini subclass SILKSCREEN_TOP 
+\i (01:01:59) setwindow pcb
+\i (01:01:59) pick y 0 0 
+\t (01:01:59) last pick:  0.000  0.000
+\i (01:02:13) ipick 1.05 
+\t (01:02:13) last pick:  1.050  0.000
+\i (01:02:18) ipick 0 0.85 
+\t (01:02:18) last pick:  1.050  0.850
+\i (01:02:23) ipick -1.05 
+\t (01:02:23) last pick:  0.000  0.850
+\i (01:02:27) ipick 0 -0.85 
+\t (01:02:27) last pick:  0.000  0.000
+\i (01:02:28) prepopup 2.850 -0.816
+\i (01:02:29) done 
+\t (01:02:29) Performing autosave...
+\t (01:02:29) Autosave successful
+\i (01:02:31) move 
+\t (01:02:31) Select element(s) to move.
+\i (01:02:33) pick grid 0.841 0.830
+\t (01:02:33) last pick:  0.841  0.830
+\i (01:02:35) setwindow form.find
+\i (01:02:35) FORM find text NO 
+\i (01:02:36) FORM find lines YES 
+\i (01:02:38) setwindow pcb
+\i (01:02:38) pick grid 0.781 0.830
+\t (01:02:38) last pick:  0.781  0.830
+\t (01:02:38) last pick:  0.781  0.830
+\t (01:02:38) Element has no origin, using pick.
+\t (01:02:38) Pick new location for the element(s).
+\i (01:02:44) pick grid 0.606 0.837
+\t (01:02:44) last pick:  0.606  0.837
+\i (01:02:49) add rect 
+\i (01:02:54) setwindow form.mini
+\i (01:02:54) FORM mini class PACKAGE KEEPOUT 
+\i (01:02:56) setwindow pcb
+\i (01:02:56) zoom in 1 
+\i (01:02:56) setwindow pcb
+\i (01:02:56) zoom in -0.247 0.971
+\t (01:02:56) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:02:56) trapsize 17
+\i (01:02:58) zoom out 1 
+\i (01:02:58) setwindow pcb
+\i (01:02:58) zoom out -0.237 1.042
+\t (01:02:58) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:02:58) trapsize 34
+\i (01:03:02) pick grid -0.257 1.089
+\t (01:03:02) last pick:  -0.257  1.089
+\i (01:03:04) zoom in 1 
+\i (01:03:04) setwindow pcb
+\i (01:03:04) zoom in 0.986 -0.254
+\t (01:03:04) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:03:04) trapsize 17
+\i (01:03:06) zoom out 1 
+\i (01:03:06) setwindow pcb
+\i (01:03:06) zoom out 0.950 -0.254
+\t (01:03:06) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:03:06) trapsize 34
+\i (01:03:11) zoom in 1 
+\i (01:03:11) setwindow pcb
+\i (01:03:11) zoom in 0.963 -0.234
+\t (01:03:11) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:03:11) trapsize 17
+\i (01:03:13) pick grid 0.963 -0.221
+\t (01:03:13) last pick:  0.963  -0.221
+\i (01:03:14) zoom out 1 
+\i (01:03:14) setwindow pcb
+\i (01:03:14) zoom out 0.973 -0.227
+\t (01:03:14) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:03:14) trapsize 34
+\i (01:03:15) prepopup 1.296 0.384
+\i (01:03:15) done 
+\i (01:03:21) zoom in 1 
+\i (01:03:21) setwindow pcb
+\i (01:03:21) zoom in 0.819 0.713
+\t (01:03:21) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:03:21) trapsize 17
+\i (01:03:22) zoom out 1 
+\i (01:03:22) setwindow pcb
+\i (01:03:22) zoom out 0.819 0.713
+\t (01:03:22) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:03:22) trapsize 34
+\i (01:03:22) zoom out 1 
+\i (01:03:22) setwindow pcb
+\i (01:03:22) zoom out 0.819 0.713
+\i (01:03:22) trapsize 67
+\i (01:03:22) zoom in 1 
+\i (01:03:22) setwindow pcb
+\i (01:03:22) zoom in 0.484 1.331
+\i (01:03:22) trapsize 34
+\i (01:03:23) zoom in 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom in 0.484 1.311
+\t (01:03:23) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:03:23) trapsize 17
+\i (01:03:27) add text 
+\t (01:03:27) Pick text location.
+\i (01:03:30) setwindow form.mini
+\i (01:03:30) FORM mini class EMBEDDED GEOMETRY 
+\i (01:03:35) FORM mini class PACKAGE GEOMETRY 
+\i (01:03:37) FORM mini subclass SILKSCREEN_TOP 
+\i (01:03:39) setwindow pcb
+\i (01:03:39) pick grid -0.228 1.164
+\t (01:03:39) last pick:  -0.228  1.164
+\t (01:03:39) Enter text string.
+\i (01:03:51) setwindow pcb
+\i (01:03:51) zoom out 1 
+\i (01:03:51) setwindow pcb
+\i (01:03:51) zoom out 0.608 0.854
+\t (01:03:51) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:03:51) trapsize 34
+\i (01:03:51) zoom out 1 
+\i (01:03:51) setwindow pcb
+\i (01:03:51) zoom out 0.616 0.855
+\i (01:03:51) trapsize 67
+\i (01:03:52) prepopup 1.529 1.097
+\i (01:03:52) done 
+\i (01:03:52) setwindow pcb
+\i (01:03:52) pick -0.228 1.164
+\i (01:03:53) setwindow pcb
+\i (01:03:53) zoom in 1 
+\i (01:03:53) setwindow pcb
+\i (01:03:53) zoom in 0.387 1.379
+\i (01:03:53) trapsize 34
+\i (01:03:54) zoom in 1 
+\i (01:03:54) setwindow pcb
+\i (01:03:54) zoom in 0.387 1.379
+\t (01:03:54) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:03:54) trapsize 17
+\i (01:03:59) text edit 
+\i (01:04:00) pick grid -0.157 1.185
+\t (01:04:00) last pick:  -0.157  1.185
+\i (01:04:08) setwindow pcb
+\i (01:04:08) pick grid 1.180 1.571
+\t (01:04:08) last pick:  1.180  1.571
+\i (01:04:08) setwindow pcb
+\i (01:04:08) pick -0.157 1.185
+\t (01:04:08) Pick text to edit.
+\e (01:04:08) ERROR(SPMHA1-441): Text not found.
+\i (01:04:09) setwindow pcb
+\i (01:04:09) label refdes 
+\t (01:04:09) Pick text location.
+\i (01:04:10) pick grid 0.210 0.439
+\t (01:04:10) last pick:  0.210  0.439
+\t (01:04:10) Enter text string.
+\i (01:04:15) setwindow pcb
+\i (01:04:15) pick 0.210 0.439
+\i (01:04:16) prepopup 1.049 0.929
+\i (01:04:17) done 
+\i (01:04:17) zoom out 1 
+\i (01:04:17) setwindow pcb
+\i (01:04:17) zoom out 1.026 0.933
+\t (01:04:17) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:04:17) trapsize 34
+\i (01:04:17) zoom out 1 
+\i (01:04:17) setwindow pcb
+\i (01:04:17) zoom out 1.026 0.932
+\i (01:04:17) trapsize 67
+\i (01:04:18) zoom in 1 
+\i (01:04:18) setwindow pcb
+\i (01:04:18) zoom in 0.999 0.691
+\i (01:04:18) trapsize 34
+\i (01:04:23) move 
+\t (01:04:23) Select element(s) to move.
+\i (01:04:25) setwindow form.find
+\i (01:04:25) FORM find all_off  
+\i (01:04:26) FORM find text YES 
+\i (01:04:26) setwindow pcb
+\i (01:04:26) zoom in 1 
+\i (01:04:26) setwindow pcb
+\i (01:04:26) zoom in 1.087 0.705
+\t (01:04:26) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:04:26) trapsize 17
+\i (01:04:27) pick grid 0.623 0.644
+\t (01:04:27) last pick:  0.623  0.644
+\t (01:04:27) last pick:  0.210  0.439
+\t (01:04:27) Pick new location for the element(s).
+\i (01:04:30) pick grid 0.076 0.349
+\t (01:04:30) last pick:  0.076  0.349
+\i (01:04:31) pick grid 1.346 0.678
+\t (01:04:31) last pick:  1.346  0.678
+\i (01:04:32) prepopup 1.305 0.685
+\i (01:04:33) done 
+\i (01:04:33) zoom out 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom out 0.996 0.221
+\t (01:04:33) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:04:33) trapsize 34
+\i (01:04:33) zoom out 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom out 0.996 0.221
+\i (01:04:33) trapsize 67
+\i (01:04:35) save 
+\t (01:04:36) Symbol 'spdson3.psm' created.
+\i (01:04:38) zoom out 1 
+\i (01:04:38) setwindow pcb
+\i (01:04:38) zoom out 0.621 0.504
+\t (01:04:38) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (01:04:38) trapsize 134
+\i (01:04:38) zoom in 1 
+\i (01:04:38) setwindow pcb
+\i (01:04:38) zoom in 0.890 -0.544
+\t (01:04:38) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:04:38) trapsize 67
+\i (01:04:39) zoom in 1 
+\i (01:04:39) setwindow pcb
+\i (01:04:39) zoom in 0.890 -0.544
+\i (01:04:39) trapsize 34
+\i (01:04:39) zoom in 1 
+\i (01:04:39) setwindow pcb
+\i (01:04:39) zoom in 0.984 0.061
+\t (01:04:39) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:04:39) trapsize 17
+\i (01:04:40) zoom out 1 
+\i (01:04:40) setwindow pcb
+\i (01:04:40) zoom out 0.985 0.061
+\t (01:04:40) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:04:40) trapsize 34
+\i (01:05:06) show measure 
+\i (01:05:06) zoom in 1 
+\i (01:05:06) setwindow pcb
+\i (01:05:06) zoom in 0.534 -0.127
+\t (01:05:06) Grids are drawn 0.016, 0.016 apart for enhanced viewability.
+\i (01:05:06) trapsize 17
+\i (01:05:07) pick grid 0.686 0.017
+\t (01:05:07) last pick:  0.686  0.017
+\i (01:05:08) pick grid -0.003 0.011
+\t (01:05:08) last pick:  -0.003  0.011
+\i (01:05:11) pick grid 0.336 0.881
+\t (01:05:11) last pick:  0.336  0.881
+\i (01:05:14) setwindow text
+\i (01:05:14) close 
+\i (01:05:15) setwindow pcb
+\i (01:05:15) prepopup 1.297 0.400
+\i (01:05:15) done 
+\i (01:05:16) zoom out 1 
+\i (01:05:16) setwindow pcb
+\i (01:05:16) zoom out 1.270 0.390
+\t (01:05:16) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (01:05:16) trapsize 34
+\i (01:05:17) save 
+\i (01:05:20) fillin yes 
+\t (01:05:21) Symbol 'spdson3.psm' created.
+\e (01:12:47) Command not found: xhilite
+\i (01:12:47) xname_flush 
+\e (01:12:47) No command active
+\i (01:12:47) done 
+\e (01:12:47) No command active
+\e (01:12:55) Command not found: xdehilite
+\i (01:12:55) xname_flush 
+\e (01:12:55) No command active
+\i (01:12:55) done 
+\e (01:12:55) No command active
+\i (01:51:59) new 
+\i (01:52:20) newdrawfillin "TO252.dra" "Package Symbol"
+\t (01:52:20)     Journal end - Thu Dec 06 22:38:15 2018

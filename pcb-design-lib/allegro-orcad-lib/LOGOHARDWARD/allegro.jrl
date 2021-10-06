@@ -1,0 +1,111 @@
+\t (00:39:44) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:39:44)     Journal start - Sat Dec 08 17:22:17 2018
+\t (00:39:44)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:39:44) 
+\d (00:39:44) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/LOGOHARDWARD/HARDWARE.dra
+\i (00:39:44) generaledit 
+\i (00:39:46) zoom in 1 
+\i (00:39:46) setwindow pcb
+\i (00:39:46) zoom in -0.030 1.286
+\t (00:39:46) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:39:46) trapsize 80
+\i (00:39:48) delete 
+\i (00:39:49) pick grid 0.322 10.241
+\t (00:39:49) last pick:  0.322  10.241
+\t (00:39:49) Text "H*"
+\i (00:39:49) pick grid 0.322 10.241
+\t (00:39:49) last pick:  0.322  10.241
+\i (00:39:57) define grid 
+\t (00:39:57) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:39:59) setwindow form.grid
+\i (00:39:59) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:40:00) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:40:00) FORM grid done  
+\i (00:40:03) setwindow pcb
+\i (00:40:03) define grid 
+\t (00:40:03) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:40:07) setwindow form.grid
+\i (00:40:07) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:40:10) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:40:10) FORM grid done  
+\i (00:40:12) setwindow pcb
+\i (00:40:12) zoom in 1 
+\i (00:40:12) setwindow pcb
+\i (00:40:12) zoom in -1.853 6.563
+\i (00:40:12) trapsize 40
+\i (00:40:13) zoom in 1 
+\i (00:40:13) setwindow pcb
+\i (00:40:13) zoom in -1.852 6.564
+\i (00:40:13) trapsize 20
+\i (00:40:13) zoom out 1 
+\i (00:40:13) setwindow pcb
+\i (00:40:13) zoom out -1.852 6.564
+\i (00:40:13) trapsize 40
+\i (00:40:14) zoom out 1 
+\i (00:40:14) setwindow pcb
+\i (00:40:14) zoom out -1.852 6.564
+\i (00:40:14) trapsize 80
+\i (00:40:19) color192 
+\i (00:40:19) setwindow cvf.dialog
+\i (00:40:19) cvf layer_mode
+\i (00:40:21) cvf layer_tree_item 'Package Geometry'
+\i (00:40:23) cvf select_color_cell 9
+\i (00:40:24) cvf layers_color package_geometry/place_bound_top 10
+\i (00:40:26) cvf apply
+\i (00:40:27) cvf okay
+\i (00:40:31) setwindow pcb
+\i (00:40:31) add rect 
+\i (00:40:35) setwindow form.mini
+\i (00:40:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:40:37) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:40:38) setwindow pcb
+\i (00:40:38) zoom in 1 
+\i (00:40:38) setwindow pcb
+\i (00:40:38) zoom in -2.860 8.978
+\i (00:40:38) trapsize 40
+\i (00:40:40) zoom out 1 
+\i (00:40:40) setwindow pcb
+\i (00:40:40) zoom out -3.060 9.090
+\i (00:40:40) trapsize 80
+\i (00:40:41) zoom in 1 
+\i (00:40:41) setwindow pcb
+\i (00:40:41) zoom in -4.659 9.106
+\i (00:40:41) trapsize 40
+\i (00:40:46) zoom out 1 
+\i (00:40:46) setwindow pcb
+\i (00:40:46) zoom out -4.315 9.738
+\i (00:40:46) trapsize 80
+\i (00:40:49) pick grid -4.346 9.673
+\t (00:40:49) last pick:  -4.300  9.700
+\i (00:40:54) prepopup 4.353 0.190
+\i (00:40:55) done 
+\i (00:40:55) generaledit 
+\i (00:40:57) pick grid -4.490 10.057
+\t (00:40:57) last pick:  -4.500  10.100
+\i (00:41:00) add rect 
+\i (00:41:06) pick grid -4.682 9.625
+\t (00:41:06) last pick:  -4.700  9.600
+\w (00:41:07) Save Pending
+\i (00:41:15) pick grid 4.881 0.015
+\t (00:41:15) last pick:  4.900  0.000
+\i (00:41:17) label refdes 
+\t (00:41:17) Pick text location.
+\i (00:41:20) setwindow form.mini
+\i (00:41:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:41:21) setwindow pcb
+\i (00:41:21) pick grid -0.269 5.947
+\t (00:41:21) last pick:  -0.300  5.900
+\t (00:41:21) Enter text string.
+\i (00:41:23) setwindow pcb
+\i (00:41:23) pick -0.300 5.900
+\i (00:41:27) save 
+\i (00:41:28) fillin yes 
+\t (00:41:29) Symbol 'hardware.psm' created.
+\i (00:41:29) generaledit 
+\i (00:41:33) open 
+\i (00:41:40) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LQFP48\LQFP.dra"
+\i (00:41:40) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\LQFP48"
+\t (00:41:40) Opening existing design...
+\t (00:41:40) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:41:40) trapsize 87
+\t (00:41:40)     Journal end - Sat Dec 08 17:24:13 2018

@@ -1,0 +1,36 @@
+\t (00:00:22) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:22)     Journal start - Wed Mar 13 11:41:21 2019
+\t (00:00:22)         Host=MS-20170525XJDN User=Administrator Pid=8124 CPUs=4
+\t (00:00:22) 
+\d (00:00:22) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/LQFP48/LQFP.dra
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -2.079 1.809
+\i (00:00:26) trapsize 145
+\i (00:00:29) roam x 96 
+\i (00:00:32) setwindow form.mini
+\i (00:00:32) FORM mini subcolor 0 
+\i (00:00:33) FORM mini subcolor 1 
+\i (00:00:38) FORM mini subcolor 0 
+\i (00:00:39) FORM mini subcolor 1 
+\i (00:00:41) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:44) FORM mini subcolor 0 
+\i (00:00:45) FORM mini subcolor 1 
+\i (00:00:50) FORM mini subcolor 0 
+\i (00:01:01) FORM mini class MANUFACTURING 
+\i (00:01:07) FORM mini class PIN 
+\i (00:01:11) FORM mini class ROUTE KEEPOUT 
+\i (00:01:17) FORM mini class EMBEDDED GEOMETRY 
+\i (00:01:26) FORM mini class PACKAGE KEEPOUT 
+\i (00:01:30) FORM mini subcolor 0 
+\i (00:01:32) FORM mini subcolor 1 
+\i (00:02:57) FORM mini class PACKAGE GEOMETRY 
+\i (00:02:59) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) open 
+\i (00:03:45) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\MYC-Y6UL140S-1-39X37.dra"
+\i (00:03:45) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib"
+\t (00:03:45) Opening existing design...
+\t (00:03:45) Grids are drawn 1.60, 1.60 apart for enhanced viewability.
+\i (00:03:45) trapsize 62
+\t (00:03:45)     Journal end - Wed Mar 13 11:44:45 2019

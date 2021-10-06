@@ -1,0 +1,26 @@
+\t (00:00:06) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:06)     Journal start - Sat Dec 08 15:24:54 2018
+\t (00:00:06)         Host=MS-20170525XJDN User=Administrator Pid=5548 CPUs=4
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:08) Starting new design...
+   (00:00:08) Loading cmds.cxt 
+\i (00:00:09) trapsize 653
+\i (00:00:09) trapsize 641
+\i (00:00:09) trapsize 655
+\i (00:00:09) trapsize 792
+\i (00:00:09) trapsize 1007
+\i (00:00:10) placementedit 
+\i (00:00:23) open 
+\e (00:00:23) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:24) fillin no 
+\i (00:00:32) fillin "E:\PCBFile\beaglebone-black-master\ALLEGRO\BeagleBone_Black_RevB6_nologo.brd"
+\i (00:00:32) cd "E:\PCBFile\beaglebone-black-master\ALLEGRO"
+\t (00:00:32) Opening existing design...
+\i (00:00:33) fillin yes 
+\w (00:00:34) WARNING(SPMHDB-214): Allegro PCB Design XL (legacy) opening an Allegro Editor design.
+\w (00:00:34) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:34) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:00:35) fillin confirm
+\i (00:00:35) trapsize 2812
+\t (00:00:35)     Journal end - Sat Dec 08 15:25:23 2018

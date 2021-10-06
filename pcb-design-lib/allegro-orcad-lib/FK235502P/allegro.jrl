@@ -1,0 +1,18 @@
+\t (00:36:12) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:36:12)     Journal start - Sat Dec 08 17:18:45 2018
+\t (00:36:12)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:36:12) 
+\d (00:36:12) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/FK235502P/FK253502P.dra
+\i (00:36:12) generaledit 
+\i (00:36:14) pick grid 5.039 2.169
+\t (00:36:14) last pick:  5.000  2.200
+\i (00:36:16) save 
+\i (00:36:17) fillin yes 
+\t (00:36:18) Symbol 'fk253502p.psm' created.
+\i (00:36:18) generaledit 
+\i (00:36:19) open 
+\i (00:36:26) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\H154X4\H154X4.dra"
+\i (00:36:26) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\H154X4"
+\t (00:36:26) Opening existing design...
+\i (00:36:26) trapsize 112
+\t (00:36:26)     Journal end - Sat Dec 08 17:18:59 2018

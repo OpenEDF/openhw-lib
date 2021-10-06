@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FK253502P.dra                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Dec 07 21:29:17 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/FK235502P
+    Name      = fk253502p.psm
+    User      = Administrator
+    Machine   = MS-20170525XJDN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

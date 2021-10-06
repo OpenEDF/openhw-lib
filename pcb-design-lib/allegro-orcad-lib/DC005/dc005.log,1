@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DC005.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Dec 05 23:28:07 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/DC005
+    Name      = dc005.psm
+    User      = Administrator
+    Machine   = MS-20170525XJDN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

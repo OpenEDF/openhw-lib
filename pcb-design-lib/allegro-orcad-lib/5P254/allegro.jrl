@@ -1,0 +1,99 @@
+\t (00:22:10) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:22:10)     Journal start - Sat Dec 08 17:04:43 2018
+\t (00:22:10)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:22:10) 
+\d (00:22:10) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/5P254/5P254.dra
+\i (00:22:10) generaledit 
+\i (00:22:11) zoom in 1 
+\i (00:22:11) setwindow pcb
+\i (00:22:11) zoom in 3.021 -0.414
+\i (00:22:11) trapsize 81
+\i (00:22:11) zoom in 1 
+\i (00:22:11) setwindow pcb
+\i (00:22:11) zoom in 3.005 -0.204
+\i (00:22:11) trapsize 40
+\i (00:22:12) zoom in 1 
+\i (00:22:12) setwindow pcb
+\i (00:22:12) zoom in -1.227 0.838
+\i (00:22:12) trapsize 20
+\i (00:22:15) change 
+\i (00:22:19) setwindow form.mini
+\i (00:22:19) FORM mini change_class PACKAGE GEOMETRY 
+\i (00:22:22) FORM mini change_subclass SILKSCREEN_TOP 
+\i (00:22:28) FORM mini line_width 0.200 
+\i (00:22:30) setwindow pcb
+\i (00:22:30) pick grid 2.683 1.254
+\t (00:22:30) last pick:  2.700  1.300
+\t (00:22:30) No DRC errors detected.
+\t (00:22:30) Changed 1 items out of 1 items found.
+\i (00:22:32) zoom out 1 
+\i (00:22:32) setwindow pcb
+\i (00:22:32) zoom out 1.063 0.854
+\i (00:22:32) trapsize 40
+\i (00:22:34) zoom out 1 
+\i (00:22:34) setwindow pcb
+\i (00:22:34) zoom out 1.031 0.854
+\i (00:22:34) trapsize 81
+\i (00:22:35) zoom in 1 
+\i (00:22:35) setwindow pcb
+\i (00:22:35) zoom in 12.306 0.031
+\i (00:22:35) trapsize 40
+\i (00:22:36) zoom in 1 
+\i (00:22:36) setwindow pcb
+\i (00:22:36) zoom in 12.105 0.088
+\i (00:22:36) trapsize 20
+\i (00:22:37) prepopup 11.786 -0.065
+\i (00:22:38) done 
+\i (00:22:38) generaledit 
+\i (00:22:40) drag_start grid 11.499 -1.398
+\i (00:22:40) move 
+\t (00:22:40) last pick:  11.500  -1.400
+\t (00:22:40) Element has no origin, using pick.
+\t (00:22:40) Pick new location for the element(s).
+\i (00:22:41) drag_stop grid 11.596 -1.398
+\i (00:22:41) generaledit 
+\i (00:22:41) zoom out 1 
+\i (00:22:41) setwindow pcb
+\i (00:22:41) zoom out 11.689 -1.394
+\i (00:22:41) trapsize 40
+\i (00:22:43) zoom out 1 
+\i (00:22:43) setwindow pcb
+\i (00:22:43) zoom out 11.761 -1.361
+\i (00:22:43) trapsize 81
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in -0.773 -1.312
+\i (00:22:44) trapsize 40
+\i (00:22:44) zoom in 1 
+\i (00:22:44) setwindow pcb
+\i (00:22:44) zoom in -1.104 -1.126
+\i (00:22:44) trapsize 20
+\i (00:22:45) drag_start grid -1.314 -1.384
+\i (00:22:45) move 
+\t (00:22:45) last pick:  -1.300  -1.400
+\t (00:22:45) Element has no origin, using pick.
+\t (00:22:45) Pick new location for the element(s).
+\i (00:22:46) drag_stop grid -1.407 -1.380
+\i (00:22:46) generaledit 
+\i (00:22:47) zoom out 1 
+\i (00:22:47) setwindow pcb
+\i (00:22:47) zoom out -1.261 -1.481
+\i (00:22:47) trapsize 40
+\i (00:22:47) zoom out 1 
+\i (00:22:47) setwindow pcb
+\i (00:22:47) zoom out -1.262 -1.481
+\i (00:22:47) trapsize 81
+\i (00:22:48) prepopup 1.936 3.107
+\i (00:22:49) pick grid 0.515 3.156
+\t (00:22:49) last pick:  0.500  3.200
+\i (00:22:51) save 
+\i (00:22:52) fillin yes 
+\t (00:22:53) Symbol '5p254.psm' created.
+\i (00:22:53) generaledit 
+\i (00:22:58) open 
+\i (00:23:03) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\DC005\DC005.dra"
+\i (00:23:03) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\DC005"
+\t (00:23:03) Opening existing design...
+\t (00:23:03) Grids are drawn 0.256, 0.256 apart for enhanced viewability.
+\i (00:23:03) trapsize 112
+\t (00:23:03)     Journal end - Sat Dec 08 17:05:36 2018

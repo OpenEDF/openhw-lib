@@ -1,0 +1,55 @@
+\t (00:03:12) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:03:12)     Journal start - Sat Dec 08 19:05:02 2018
+\t (00:03:12)         Host=MS-20170525XJDN User=Administrator Pid=4612 CPUs=4
+\t (00:03:12) 
+\d (00:03:12) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/H154X4/H154X4.dra
+\i (00:03:12) generaledit 
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in -0.577 -2.880
+\i (00:03:13) trapsize 56
+\i (00:03:14) zoom in 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom in -0.566 -2.688
+\i (00:03:14) trapsize 28
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -0.493 -1.795
+\i (00:03:15) trapsize 56
+\i (00:03:24) delete 
+\i (00:03:26) pick grid -0.133 -0.560
+\t (00:03:26) last pick:  -0.100  -0.600
+\t (00:03:26) Text "Ref"
+\i (00:03:26) pick grid -0.133 -0.560
+\t (00:03:26) last pick:  -0.100  -0.600
+\t (00:03:26) Filled Rectangle "Package Geometry/Place_Bound_Top"
+\i (00:03:56) label refdes 
+\t (00:03:56) Pick text location.
+\i (00:03:59) setwindow form.mini
+\i (00:03:59) FORM mini subclass ASSEMBLY_TOP 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) pick grid -0.493 -0.470
+\t (00:04:00) last pick:  -0.500  -0.500
+\t (00:04:00) Enter text string.
+\i (00:04:03) setwindow pcb
+\i (00:04:03) pick -0.500 -0.500
+\i (00:04:05) prepopup 5.111 -0.616
+\i (00:04:05) done 
+\i (00:04:06) generaledit 
+\i (00:04:07) save 
+\i (00:04:09) fillin yes 
+\t (00:04:10) Symbol 'h154x4.psm' created.
+\i (00:04:10) generaledit 
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out -5.040 0.159
+\i (00:04:12) trapsize 112
+\i (00:04:13) prepopup 6.098 -0.111
+\i (00:04:14) pick grid 5.559 0.720
+\t (00:04:14) last pick:  5.600  0.700
+\i (00:04:25) open 
+\i (00:04:33) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\0603\0603.dra"
+\i (00:04:33) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\0603"
+\t (00:04:33) Opening existing design...
+\i (00:04:33) trapsize 202
+\t (00:04:33)     Journal end - Sat Dec 08 19:06:23 2018

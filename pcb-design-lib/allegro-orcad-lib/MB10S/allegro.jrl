@@ -1,0 +1,17 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Sat Dec 08 18:03:07 2018
+\t (00:00:02)         Host=MS-20170525XJDN User=Administrator Pid=9132 CPUs=4
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+   (00:00:05) Loading cmds.cxt 
+\i (00:00:05) trapsize 653
+\i (00:00:05) trapsize 641
+\i (00:00:05) trapsize 655
+\i (00:00:05) trapsize 660
+\i (00:00:06) trapsize 749
+\i (00:00:06) trapsize 1007
+\i (00:00:07) generaledit 
+\i (00:00:25) new 
+\i (00:00:56) newdrawfillin "DALIMaster.brd" "Board"
+\t (00:00:56)     Journal end - Sat Dec 08 18:04:01 2018

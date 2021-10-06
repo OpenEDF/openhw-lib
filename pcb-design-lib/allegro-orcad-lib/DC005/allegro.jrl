@@ -1,0 +1,27 @@
+\t (00:34:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:34:07)     Journal start - Sat Dec 08 17:16:40 2018
+\t (00:34:07)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:34:07) 
+\d (00:34:07) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/DC005/DC005.dra
+\i (00:34:08) generaledit 
+\i (00:34:10) pick grid 7.502 -5.605
+\t (00:34:10) last pick:  7.500  -5.600
+\i (00:34:13) color192 
+\i (00:34:13) setwindow cvf.dialog
+\i (00:34:13) cvf layer_mode
+\i (00:34:13) setwindow pcb
+\i (00:34:13) generaledit 
+\i (00:34:15) setwindow cvf.dialog
+\i (00:34:15) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:34:15) cvf layer_tree_item 'Package Geometry'
+\i (00:34:20) cvf okay
+\i (00:34:24) setwindow pcb
+\i (00:34:24) open 
+\e (00:34:24) Do you want to save the changes you made to DC005.dra?
+\i (00:34:28) fillin no 
+\i (00:34:33) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\HOLE3\HOLE3.dra"
+\i (00:34:33) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\HOLE3"
+\t (00:34:33) Opening existing design...
+\t (00:34:33) Grids are drawn 0.064, 0.064 apart for enhanced viewability.
+\i (00:34:33) trapsize 80
+\t (00:34:33)     Journal end - Sat Dec 08 17:17:06 2018

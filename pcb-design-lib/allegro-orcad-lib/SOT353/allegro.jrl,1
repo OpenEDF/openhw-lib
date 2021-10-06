@@ -1,0 +1,18 @@
+\t (00:00:49) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:49)     Journal start - Wed Dec 05 20:34:12 2018
+\t (00:00:49)         Host=MS-20170525XJDN User=Administrator Pid=5392 CPUs=4
+\t (00:00:49) 
+   (00:00:50) Loading axlcore.cxt 
+\t (00:00:51) Starting new design...
+   (00:00:51) Loading cmds.cxt 
+\i (00:00:51) trapsize 995
+\i (00:00:51) trapsize 968
+\i (00:00:51) trapsize 1000
+\i (00:00:52) trapsize 1360
+\i (00:00:52) trapsize 1693
+\i (00:00:53) shape add 
+\i (00:26:32) new 
+\e (00:26:32) Do you want to save the changes you made to unnamed.brd?
+\i (00:26:33) fillin no 
+\i (00:26:54) newdrawfillin "SOT23.dra" "Package Symbol"
+\t (00:26:54)     Journal end - Wed Dec 05 21:00:17 2018

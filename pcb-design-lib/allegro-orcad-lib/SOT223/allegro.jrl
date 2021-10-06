@@ -1,0 +1,42 @@
+\t (00:45:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:45:04)     Journal start - Sat Dec 08 19:46:54 2018
+\t (00:45:04)         Host=MS-20170525XJDN User=Administrator Pid=4612 CPUs=4
+\t (00:45:04) 
+\d (00:45:04) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/SOT223/SOT223.dra
+\i (00:45:04) generaledit 
+\i (00:45:05) zoom in 1 
+\i (00:45:05) setwindow pcb
+\i (00:45:05) zoom in 1.854 -0.340
+\i (00:45:05) trapsize 68
+\i (00:45:06) zoom out 1 
+\i (00:45:06) setwindow pcb
+\i (00:45:06) zoom out 1.854 -0.340
+\i (00:45:06) trapsize 136
+\i (00:45:07) zoom in 1 
+\i (00:45:07) setwindow pcb
+\i (00:45:07) zoom in 0.930 3.519
+\i (00:45:07) trapsize 68
+\i (00:45:07) zoom in 1 
+\i (00:45:07) setwindow pcb
+\i (00:45:07) zoom in 0.916 3.533
+\i (00:45:07) trapsize 34
+\i (00:45:09) zoom out 1 
+\i (00:45:09) setwindow pcb
+\i (00:45:09) zoom out 0.896 3.472
+\i (00:45:09) trapsize 68
+\i (00:45:09) zoom out 1 
+\i (00:45:09) setwindow pcb
+\i (00:45:09) zoom out 0.896 3.336
+\i (00:45:09) trapsize 136
+\i (00:51:04) open 
+\i (00:51:38) fillin "F:\2018年活动\DFRobot\项目3-DALI\PCB\DALIMaster\DALIMaster.brd"
+\i (00:51:38) cd "F:\2018年活动\DFRobot\项目3-DALI\PCB\DALIMaster"
+\t (00:51:38) Opening existing design...
+\t (00:51:38) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:51:38) trapsize 620
+\i (00:51:38) trapsize 594
+\i (00:51:38) trapsize 620
+\i (00:51:38) trapsize 631
+\i (00:51:39) trapsize 612
+\i (00:51:39) trapsize 612
+\t (00:51:39)     Journal end - Sat Dec 08 19:53:29 2018

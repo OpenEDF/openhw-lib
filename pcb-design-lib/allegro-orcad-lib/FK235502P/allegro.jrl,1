@@ -1,0 +1,302 @@
+\t (00:31:32) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:31:32)     Journal start - Sat Dec 08 17:14:05 2018
+\t (00:31:32)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:31:32) 
+\d (00:31:32) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/FK235502P/FK253502P.dra
+\i (00:31:32) generaledit 
+\i (00:31:33) zoom in 1 
+\i (00:31:33) setwindow pcb
+\i (00:31:33) zoom in 7.466 3.004
+\i (00:31:33) trapsize 81
+\i (00:31:33) zoom in 1 
+\i (00:31:33) setwindow pcb
+\i (00:31:33) zoom in 7.434 3.020
+\i (00:31:33) trapsize 40
+\i (00:31:34) zoom out 1 
+\i (00:31:34) setwindow pcb
+\i (00:31:34) zoom out 7.434 3.013
+\i (00:31:34) trapsize 81
+\i (00:31:34) zoom out 1 
+\i (00:31:34) setwindow pcb
+\i (00:31:34) zoom out 7.434 2.996
+\i (00:31:34) trapsize 162
+\i (00:31:34) zoom out 1 
+\i (00:31:34) setwindow pcb
+\i (00:31:34) zoom out 7.433 2.996
+\i (00:31:34) trapsize 323
+\i (00:31:38) color192 
+\i (00:31:38) setwindow cvf.dialog
+\i (00:31:38) cvf layer_mode
+\i (00:31:39) setwindow pcb
+\i (00:31:39) generaledit 
+\i (00:31:40) setwindow cvf.dialog
+\i (00:31:40) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:31:42) cvf layer_tree_item 'Package Geometry'
+\i (00:31:44) cvf select_color_cell 9
+\i (00:31:46) cvf layers_color package_geometry/place_bound_top 10
+\i (00:31:48) cvf apply
+\i (00:31:48) cvf okay
+\i (00:31:49) setwindow pcb
+\i (00:31:49) zoom in 1 
+\i (00:31:49) setwindow pcb
+\i (00:31:49) zoom in 10.148 3.772
+\i (00:31:49) trapsize 162
+\i (00:31:50) zoom in 1 
+\i (00:31:50) setwindow pcb
+\i (00:31:50) zoom in 9.954 3.901
+\i (00:31:50) trapsize 81
+\i (00:31:53) pick grid 8.015 2.302
+\t (00:31:53) last pick:  8.000  2.300
+\i (00:31:54) delete 
+\i (00:31:54) pick grid 8.209 2.221
+\t (00:31:54) last pick:  8.200  2.200
+\i (00:31:56) delete 
+\i (00:31:58) pick grid 7.967 1.656
+\t (00:31:58) last pick:  8.000  1.700
+\i (00:32:01) zoom out 1 
+\i (00:32:01) setwindow pcb
+\i (00:32:01) zoom out 2.700 1.462
+\i (00:32:01) trapsize 162
+\i (00:32:01) zoom in 1 
+\i (00:32:01) setwindow pcb
+\i (00:32:01) zoom in 12.491 -0.509
+\i (00:32:01) trapsize 81
+\i (00:32:01) zoom in 1 
+\i (00:32:01) setwindow pcb
+\i (00:32:01) zoom in 12.491 -0.492
+\i (00:32:01) trapsize 40
+\i (00:32:02) zoom in 1 
+\i (00:32:02) setwindow pcb
+\i (00:32:02) zoom in 12.023 -0.330
+\i (00:32:02) trapsize 20
+\i (00:32:02) zoom in 1 
+\i (00:32:02) setwindow pcb
+\i (00:32:02) zoom in 12.039 -0.257
+\i (00:32:02) trapsize 10
+\i (00:32:03) pick grid 12.094 -0.106
+\t (00:32:03) last pick:  12.100  -0.100
+\t (00:32:03) Rectangle "Board Geometry/Outline"
+\i (00:32:04) pick grid 12.094 -0.106
+\t (00:32:04) last pick:  12.100  -0.100
+\t (00:32:04) Line "Package Geometry/Silkscreen_Top"
+\i (00:32:04) zoom out 1 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) zoom out 12.098 -0.106
+\i (00:32:05) trapsize 20
+\i (00:32:05) zoom out 1 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) zoom out 12.102 -0.105
+\i (00:32:05) trapsize 40
+\i (00:32:05) zoom out 1 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) zoom out 12.208 -0.145
+\i (00:32:05) trapsize 81
+\i (00:32:05) zoom out 1 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) zoom out 13.437 -0.566
+\i (00:32:05) trapsize 162
+\i (00:32:05) zoom out 1 
+\i (00:32:05) setwindow pcb
+\i (00:32:05) zoom out 13.436 -0.565
+\i (00:32:05) trapsize 323
+\i (00:32:06) prepopup 14.406 -0.371
+\i (00:32:07) done 
+\i (00:32:07) generaledit 
+\i (00:32:09) undo 
+\i (00:32:09) trapsize 81
+\i (00:32:09) generaledit 
+\i (00:32:11) zoom in 1 
+\i (00:32:11) setwindow pcb
+\i (00:32:11) zoom in 11.602 -0.170
+\i (00:32:11) trapsize 40
+\i (00:32:12) delete 
+\i (00:32:15) pick grid 12.103 -0.113
+\t (00:32:15) last pick:  12.100  -0.100
+\t (00:32:15) Rectangle "Board Geometry/Outline"
+\i (00:32:16) pick grid 12.103 -0.113
+\t (00:32:16) last pick:  12.100  -0.100
+\t (00:32:16) Line "Package Geometry/Silkscreen_Top"
+\i (00:32:18) undo 
+\i (00:32:18) trapsize 40
+\i (00:32:18) generaledit 
+\i (00:32:20) delete 
+\i (00:32:21) setwindow form.find
+\i (00:32:21) FORM find all_off  
+\i (00:32:22) FORM find shapes YES 
+\i (00:32:24) setwindow pcb
+\i (00:32:24) pick grid 12.103 -0.105
+\t (00:32:24) last pick:  12.100  -0.100
+\t (00:32:24) Rectangle "Board Geometry/Outline"
+\i (00:32:24) pick grid 12.103 -0.105
+\t (00:32:24) last pick:  12.100  -0.100
+\i (00:32:25) zoom out 1 
+\i (00:32:25) setwindow pcb
+\i (00:32:25) zoom out 10.439 0.856
+\i (00:32:25) trapsize 81
+\i (00:32:26) zoom out 1 
+\i (00:32:26) setwindow pcb
+\i (00:32:26) zoom out 10.440 0.856
+\i (00:32:26) trapsize 162
+\i (00:32:26) zoom out 1 
+\i (00:32:26) setwindow pcb
+\i (00:32:26) zoom out 9.147 3.215
+\i (00:32:26) trapsize 323
+\i (00:32:27) zoom in 1 
+\i (00:32:27) setwindow pcb
+\i (00:32:27) zoom in 7.595 13.879
+\i (00:32:27) trapsize 162
+\i (00:32:31) add rect 
+\i (00:32:33) setwindow form.mini
+\i (00:32:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:32:36) setwindow pcb
+\i (00:32:36) zoom in 1 
+\i (00:32:36) setwindow pcb
+\i (00:32:36) zoom in 0.809 13.426
+\i (00:32:36) trapsize 81
+\i (00:32:37) zoom in 1 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) zoom in 0.099 13.216
+\i (00:32:37) trapsize 40
+\i (00:32:37) zoom in 1 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) zoom in -0.054 13.103
+\i (00:32:37) trapsize 20
+\i (00:32:37) zoom in 1 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) zoom in -0.086 13.079
+\i (00:32:37) trapsize 10
+\i (00:32:39) pick grid -0.102 13.110
+\t (00:32:39) last pick:  -0.100  13.100
+\i (00:32:39) zoom out 1 
+\i (00:32:39) setwindow pcb
+\i (00:32:39) zoom out 0.233 12.876
+\i (00:32:39) trapsize 20
+\i (00:32:39) zoom out 1 
+\i (00:32:39) setwindow pcb
+\i (00:32:39) zoom out 0.233 12.875
+\i (00:32:39) trapsize 40
+\i (00:32:40) zoom out 1 
+\i (00:32:40) setwindow pcb
+\i (00:32:40) zoom out 0.234 12.876
+\i (00:32:40) trapsize 81
+\i (00:32:40) zoom out 1 
+\i (00:32:40) setwindow pcb
+\i (00:32:40) zoom out 0.233 12.876
+\i (00:32:40) trapsize 162
+\i (00:32:40) zoom out 1 
+\i (00:32:40) setwindow pcb
+\i (00:32:40) zoom out 0.589 12.747
+\i (00:32:40) trapsize 323
+\i (00:32:40) zoom out 1 
+\i (00:32:40) setwindow pcb
+\i (00:32:40) zoom out 1.171 12.489
+\t (00:32:40) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:32:40) trapsize 646
+\i (00:32:40) zoom in 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in 10.606 -6.900
+\t (00:32:41) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:32:41) trapsize 323
+\i (00:32:41) zoom in 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in 10.607 -6.576
+\i (00:32:41) trapsize 162
+\i (00:32:41) zoom in 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in 10.639 -6.543
+\i (00:32:41) trapsize 81
+\i (00:32:41) zoom in 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in 10.720 -6.397
+\i (00:32:41) trapsize 40
+\i (00:32:41) zoom out 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom out 10.704 -5.735
+\i (00:32:41) trapsize 81
+\i (00:32:42) zoom out 1 
+\i (00:32:42) setwindow pcb
+\i (00:32:42) zoom out 10.931 -5.815
+\i (00:32:42) trapsize 162
+\i (00:32:42) zoom out 1 
+\i (00:32:42) setwindow pcb
+\i (00:32:42) zoom out 10.930 -5.815
+\i (00:32:42) trapsize 323
+\i (00:32:42) zoom out 1 
+\i (00:32:42) setwindow pcb
+\i (00:32:42) zoom out 10.931 -5.816
+\t (00:32:42) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:32:42) trapsize 646
+\i (00:32:43) zoom in 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom in 10.802 1.681
+\t (00:32:43) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:32:43) trapsize 323
+\i (00:32:43) zoom in 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom in 10.802 1.488
+\i (00:32:43) trapsize 162
+\i (00:32:43) zoom in 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom in 10.802 1.423
+\i (00:32:43) trapsize 81
+\i (00:32:43) zoom in 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom in 10.980 1.019
+\i (00:32:43) trapsize 40
+\i (00:32:44) zoom in 1 
+\i (00:32:44) setwindow pcb
+\i (00:32:44) zoom in 12.063 -0.031
+\i (00:32:44) trapsize 20
+\i (00:32:44) zoom in 1 
+\i (00:32:44) setwindow pcb
+\i (00:32:44) zoom in 12.063 -0.051
+\i (00:32:44) trapsize 10
+\i (00:32:45) pick grid 12.148 -0.115
+\t (00:32:45) last pick:  12.100  -0.100
+\i (00:32:46) zoom out 1 
+\i (00:32:46) setwindow pcb
+\i (00:32:46) zoom out 12.245 -0.028
+\i (00:32:46) trapsize 20
+\i (00:32:46) zoom out 1 
+\i (00:32:46) setwindow pcb
+\i (00:32:46) zoom out 12.245 -0.029
+\i (00:32:46) trapsize 40
+\i (00:32:46) zoom out 1 
+\i (00:32:47) setwindow pcb
+\i (00:32:47) zoom out 12.245 -0.029
+\i (00:32:47) trapsize 81
+\i (00:32:47) zoom out 1 
+\i (00:32:47) setwindow pcb
+\i (00:32:47) zoom out 12.244 -0.028
+\i (00:32:47) trapsize 162
+\i (00:32:47) prepopup 6.590 -1.935
+\i (00:32:48) done 
+\i (00:32:48) generaledit 
+\i (00:32:50) pick grid 5.265 2.557
+\t (00:32:50) last pick:  5.300  2.600
+\i (00:32:53) label refdes 
+\t (00:32:53) Pick text location.
+\i (00:32:56) setwindow form.mini
+\i (00:32:56) FORM mini subclass SILKSCREEN_TOP 
+\i (00:32:58) setwindow pcb
+\i (00:32:58) pick grid 4.716 1.458
+\t (00:32:58) last pick:  4.700  1.500
+\t (00:32:58) Refdes of this subclass is already defined, change subclass.
+\i (00:32:59) pick grid 4.490 1.458
+\t (00:32:59) last pick:  4.500  1.500
+\t (00:32:59) Refdes of this subclass is already defined, change subclass.
+\i (00:33:03) label refdes 
+\t (00:33:03) Pick text location.
+\i (00:33:04) pick grid 4.813 1.523
+\t (00:33:04) last pick:  4.800  1.500
+\t (00:33:04) Refdes of this subclass is already defined, change subclass.
+\i (00:33:09) save 
+\i (00:33:10) fillin yes 
+\t (00:33:11) Symbol 'fk253502p.psm' created.
+\i (00:33:11) generaledit 
+\i (00:33:14) open 
+\i (00:33:18) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\DO214AC\DO214AC.dra"
+\i (00:33:18) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\DO214AC"
+\t (00:33:18) Opening existing design...
+\i (00:33:18) trapsize 81
+\t (00:33:18)     Journal end - Sat Dec 08 17:15:51 2018

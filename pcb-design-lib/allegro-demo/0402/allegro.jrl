@@ -1,0 +1,17 @@
+\t (00:00:05) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:05)     Journal start - Mon Mar 04 15:41:40 2019
+\t (00:00:05)         Host=MS-20170525XJDN User=Administrator Pid=500 CPUs=4
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+   (00:00:06) Loading cmds.cxt 
+\i (00:00:06) trapsize 995
+\i (00:00:06) trapsize 968
+\i (00:00:06) trapsize 1000
+\i (00:00:06) trapsize 1014
+\i (00:00:07) trapsize 1215
+\i (00:00:07) trapsize 1693
+\i (00:00:07) ifp 
+\i (00:01:46) new 
+\i (00:04:55) newdrawfillin "XXBoard.brd" "Board"
+\t (00:04:55)     Journal end - Mon Mar 04 15:46:30 2019

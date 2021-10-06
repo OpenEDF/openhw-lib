@@ -1,0 +1,139 @@
+\t (00:34:33) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:34:33)     Journal start - Sat Dec 08 17:17:06 2018
+\t (00:34:33)         Host=MS-20170525XJDN User=Administrator Pid=9560 CPUs=4
+\t (00:34:33) 
+\d (00:34:33) Database opened: E:/PCBFile/PCB_Design_Lib/AllegroPcbLib/HOLE3/HOLE3.dra
+\i (00:34:33) generaledit 
+\i (00:34:35) zoom in 1 
+\i (00:34:35) setwindow pcb
+\i (00:34:35) zoom in 0.411 1.711
+\i (00:34:35) trapsize 40
+\i (00:34:36) delete 
+\i (00:34:37) pick grid 2.323 2.223
+\t (00:34:37) last pick:  2.323  2.223
+\i (00:34:38) pick grid dbl 2.323 2.223
+\t (00:34:38) last pick:  2.323  2.223
+\i (00:34:39) delete 
+\i (00:34:41) setwindow form.find
+\i (00:34:41) FORM find shapes YES 
+\i (00:34:42) setwindow pcb
+\i (00:34:42) pick grid -2.059 2.431
+\t (00:34:42) last pick:  -2.059  2.431
+\t (00:34:42) Filled Rectangle "Package Keepout/All"
+\i (00:34:42) pick grid dbl -2.059 2.431
+\t (00:34:42) last pick:  -2.059  2.431
+\i (00:34:43) zoom out 1 
+\i (00:34:43) setwindow pcb
+\i (00:34:43) zoom out -1.643 2.079
+\i (00:34:43) trapsize 80
+\i (00:34:44) pick grid -0.220 3.086
+\t (00:34:44) last pick:  -0.220  3.086
+\t (00:34:44) Text "H*"
+\i (00:34:45) pick grid -0.220 3.086
+\t (00:34:45) last pick:  -0.220  3.086
+\i (00:34:46) pick grid -1.931 3.086
+\t (00:34:46) last pick:  -1.931  3.086
+\t (00:34:46) Text "H*"
+\i (00:34:46) pick grid dbl -1.931 3.086
+\t (00:34:46) last pick:  -1.931  3.086
+\i (00:34:47) zoom in 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom in -0.940 2.591
+\i (00:34:47) trapsize 40
+\i (00:34:52) define grid 
+\t (00:34:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:34:54) setwindow form.grid
+\i (00:34:54) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:34:56) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:34:59) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:35:00) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:35:00) FORM grid done  
+\i (00:35:05) setwindow pcb
+\i (00:35:05) color192 
+\i (00:35:05) setwindow cvf.dialog
+\i (00:35:05) cvf layer_mode
+\i (00:35:07) cvf layer_tree_item 'Package Geometry'
+\i (00:35:09) cvf select_color_cell 9
+\i (00:35:11) cvf layers_color package_geometry/place_bound_top 10
+\i (00:35:12) cvf apply
+\i (00:35:13) cvf okay
+\i (00:35:20) setwindow pcb
+\i (00:35:20) add rect 
+\i (00:35:23) setwindow form.mini
+\i (00:35:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:35:25) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:35:26) setwindow pcb
+\i (00:35:26) zoom in 1 
+\i (00:35:26) setwindow pcb
+\i (00:35:26) zoom in -2.243 2.103
+\i (00:35:26) trapsize 20
+\i (00:35:26) zoom in 1 
+\i (00:35:26) setwindow pcb
+\i (00:35:26) zoom in -2.271 2.179
+\i (00:35:26) trapsize 10
+\i (00:35:27) zoom out 1 
+\i (00:35:27) setwindow pcb
+\i (00:35:27) zoom out -2.279 2.197
+\i (00:35:27) trapsize 20
+\i (00:35:32) pick grid -2.514 2.609
+\t (00:35:32) last pick:  -2.500  2.600
+\i (00:35:33) zoom out 1 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom out -2.214 2.217
+\i (00:35:33) trapsize 40
+\i (00:35:33) zoom out 1 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom out -2.214 2.218
+\i (00:35:33) trapsize 80
+\i (00:35:34) zoom in 1 
+\i (00:35:34) setwindow pcb
+\i (00:35:34) zoom in 2.648 -2.803
+\i (00:35:34) trapsize 40
+\i (00:35:34) zoom in 1 
+\i (00:35:34) setwindow pcb
+\i (00:35:34) zoom in 2.648 -2.803
+\i (00:35:34) trapsize 20
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 2.668 -2.607
+\i (00:35:36) trapsize 40
+\i (00:35:39) pick grid 2.621 -2.615
+\t (00:35:39) last pick:  2.600  -2.600
+\i (00:35:39) zoom out 1 
+\i (00:35:39) setwindow pcb
+\i (00:35:39) zoom out 2.861 -2.535
+\i (00:35:39) trapsize 80
+\i (00:35:40) prepopup 3.564 -1.623
+\i (00:35:40) done 
+\i (00:35:40) generaledit 
+\i (00:35:43) save 
+\i (00:35:45) fillin yes 
+\e (00:35:46) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:35:46) generaledit 
+\i (00:35:50) setwindow text
+\i (00:35:50) close 
+\i (00:35:51) setwindow pcb
+\i (00:35:51) label refdes 
+\t (00:35:51) Pick text location.
+\i (00:35:54) setwindow form.mini
+\i (00:35:54) FORM mini subclass SILKSCREEN_TOP 
+\i (00:35:55) setwindow pcb
+\i (00:35:55) pick grid -0.658 -0.936
+\t (00:35:56) last pick:  -0.700  -0.900
+\t (00:35:56) Enter text string.
+\i (00:35:59) setwindow pcb
+\i (00:35:59) pick -0.700 -0.900
+\i (00:36:00) prepopup 4.444 -1.288
+\i (00:36:00) done 
+\i (00:36:01) generaledit 
+\i (00:36:02) save 
+\i (00:36:04) fillin yes 
+\t (00:36:05) Symbol 'hole3.psm' created.
+\i (00:36:05) generaledit 
+\i (00:36:06) open 
+\i (00:36:12) fillin "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\FK235502P\FK253502P.dra"
+\i (00:36:12) cd "E:\PCBFile\PCB_Design_Lib\AllegroPcbLib\FK235502P"
+\t (00:36:12) Opening existing design...
+\t (00:36:12) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:36:12) trapsize 162
+\t (00:36:12)     Journal end - Sat Dec 08 17:18:45 2018
